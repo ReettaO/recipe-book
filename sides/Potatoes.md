@@ -1,1 +1,1 @@
-% Garlic Potatoes
+## Garlic Potatoes
